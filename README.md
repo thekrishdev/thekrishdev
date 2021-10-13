@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://krish.dev](https://krish.dev)
 
-- 💬 Ask me about **WordPress, Shopify, PHP,JS, MYSQL**
+- 💬 Ask me about **WordPress, Shopify, PHP, JS, MYSQL**
 
 - 📫 How to reach me **hello@krish.dev**
 
