@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krish Dev</h1>
 <h3 align="center">Hi, my name is Krish, I create well-structured websites for the digital universe in short time. Over the past year, I have completed 35+ projects. Each website is unique in its own way. I develop websites on WordPress and Tilda. I always keep up with trends in design. It helps me to make unforgettable visual for the website.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thekrishdev&label=Profile%20views&color=0e75b6&style=flat" alt="thekrishdev" /> </p>
-
 - 🔭 I’m currently working on [Zip2](https://zip2.org)
 
 - 🌱 I’m currently learning **CMS Development, Like WP Plugin, Themes, And Also Enthusiast About Python Automation.**
