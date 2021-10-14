@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thekrishdev&label=Profile%20views&color=0e75b6&style=flat" alt="thekrishdev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thekrishdev" alt="thekrishdev" /></a> </p>
-
 - 🔭 I’m currently working on [Zip2](https://zip2.org)
 
 - 🌱 I’m currently learning **CMS Development, Like WP Plugin, Themes, And Also Enthusiast About Python Automation.**
