@@ -28,5 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thekrishdev&show_icons=true&locale=en&layout=compact" alt="thekrishdev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thekrishdev&show_icons=true&locale=en" alt="thekrishdev" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thekrishdev&" alt="thekrishdev" /></p>
