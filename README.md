@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hello@krish.dev**
 
-- 📄 Know about my experiences [https://krish.dev/resume.pdf](https://krish.dev/resume.pdf)
+- 📄 Resume [https://krish.dev/resume.pdf](https://krish.dev/resume.pdf)
 
 - 🤖 Google Me Here Link - > [https://bit.ly/3aDPxox](https://bit.ly/3aDPxox)
 
